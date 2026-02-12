@@ -1,3 +1,9 @@
 # C++
 
-In this repo we will be practicing C++ programs, condition statements, etc.
+In this repo I will be practicing C++ programs, condition statements, etc.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 1:
+Practiced input/output using cin/cout.
+Used if-else to check even/odd.
+Used a simple for-loop.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
