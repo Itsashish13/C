@@ -13,8 +13,8 @@ int main()
   n = n / 10;
  }
  if (original == reverse)
-   cout << "Palindrome Number: " << endl;
+   cout << "Palindrome Number" << endl;
  else
-  cout << "Not a Palindrome Number: " << endl;
+  cout << "Not a Palindrome Number" << endl;
 return 0;
 }
