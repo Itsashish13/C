@@ -1,0 +1,27 @@
+#include <iostream>
+#include <string>
+#include <cctype>
+using namespace std;
+
+int main()
+{
+    string text;
+    int vowels = 0, constants = 0;
+    
+    cout << "Enter a string: ";
+    getline(cin, text);
+    
+    for(char ch : text) {
+        ch = tolower(ch);
+        
+        if(isalpha(ch)) {
+            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+                vowels++;
+            else
+                constants++;
+        }
+    }
+    cout << "Vowels: " << vowels << endl;
+    cout << "Constants: " << constants << endl;
+  return 0;
+}
