@@ -1,0 +1,31 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    string sentence;
+    
+    cout << "Enter a sentence: ";
+    getline(cin, sentence);
+    
+    string word = "";
+    
+    for(int i = 0; i <= sentence.length(); i++)
+    {
+        if(sentence[i] == ' ' || i == sentence.length())
+        {
+            for(int j = word.length() - 1; j >= 0; j--)
+            {
+                cout << word[j];
+            }
+            cout << " ";
+            word = "";
+        }
+        else
+        {
+            word += sentence[i];
+        }
+    }
+    return 0;
+}
