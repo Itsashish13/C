@@ -95,3 +95,11 @@ Loops(for).
 Swapping values.
 Basic sorting logic.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 16:
+Concepts used:
+Array Traversal --> Visiting each element using loops.
+Nested Loops --> One loop selects position, another finds minimum value.
+Comparison Operations --> Checking which element is smaller(<).
+Swapping Technique --> Exchanging values using a temporary variable.
+Index Handling --> Tracking position of smallest element(minIndex).
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
