@@ -103,3 +103,11 @@ Comparison Operations --> Checking which element is smaller(<).
 Swapping Technique --> Exchanging values using a temporary variable.
 Index Handling --> Tracking position of smallest element(minIndex).
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 17:
+Concepts used:
+Arrays.
+Nested loops.
+While loop.
+Element shifting.
+Comparison operations.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
