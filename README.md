@@ -176,3 +176,15 @@ Functions.
 Binary Search.
 Searching Algorithm.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 26: KMP(Knuth-Moris-Pratt) Algorithm.
+Concepts used:
+Loops.
+Arrays.
+Strings.
+Pattern Searching.
+LPS(Longest Prefix Suffix) array.
+Output example of KMP:
+Enter text: ABABDABACDABABCABAB
+Enter pattern: ABABCABAB
+Pattern found at index: 10
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
