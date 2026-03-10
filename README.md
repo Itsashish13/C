@@ -2,7 +2,7 @@
 
 In this repo I will be practicing C++ programs, condition statements, etc.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 1:
+Day 1: To check if the number is odd or even
 Practiced input/output using cin/cout.
 Used if-else to check even/odd.
 Used a simple for-loop.
