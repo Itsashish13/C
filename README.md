@@ -12,7 +12,7 @@ Practiced arrays.
 Traversal array using loop.
 Calculated sum of elements.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 3:
+Day 3: Program to find maximum value in an array.
 Practiced arrays.
 Traversed array with loop.
 Found maximum element in array.
