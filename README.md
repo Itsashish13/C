@@ -7,7 +7,7 @@ Practiced input/output using cin/cout.
 Used if-else to check even/odd.
 Used a simple for-loop.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 2:
+Day 2: Program to display array and its sum
 Practiced arrays.
 Traversal array using loop.
 Calculated sum of elements.
