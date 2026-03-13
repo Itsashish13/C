@@ -22,7 +22,7 @@ Used while loop.
 Practiced  integer division.
 Counted digits in a number.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 5:
+Day 5: Program to reverse numbers.
 Extracted digits using modulus operator.
 Reversed a number using loop.
 Practiced number manipulation logic.
