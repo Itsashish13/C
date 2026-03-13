@@ -17,7 +17,7 @@ Practiced arrays.
 Traversed array with loop.
 Found maximum element in array.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 4:
+Day 4: Program to count digits in numbers.
 Used while loop.
 Practiced  integer division.
 Counted digits in a number.
