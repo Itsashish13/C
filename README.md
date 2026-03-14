@@ -28,7 +28,7 @@ Reversed a number using loop.
 Practiced number manipulation logic.
 Compared logic between Python and C++.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 6:
+Day 6: Program to check palindrome.
 Reversed a number.
 Compared original and reversed values.
 Implemented palindrome number check.
