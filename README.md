@@ -33,7 +33,7 @@ Reversed a number.
 Compared original and reversed values.
 Implemented palindrome number check.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 7: Program to find largest number in an array.
+Day 7: Program to find largest element in an array.
 Array traversal.
 Used loop.
 Conditional statement.
