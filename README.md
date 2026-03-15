@@ -45,7 +45,7 @@ Boolean flag.
 Break statement.
 Divisibility logic.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 9:
+Day 9: Program for Fibonacci series.
 Concepts used:
 Looping.
 Sequence generation.
