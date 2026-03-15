@@ -38,7 +38,7 @@ Array traversal.
 Used loop.
 Conditional statement.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 8:
+Day 8: Program to check prime number.
 Concepts used:
 Looping.
 Boolean flag.
